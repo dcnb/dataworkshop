@@ -5,7 +5,7 @@ nav: Intro
 
 In this workshop, we intend to familiarized you with three different types of data formats, CSV, XML, and JSON. 
 
-### CSV - Comma Seperated Values
+### CSV - Comma Separated Values
 
 The Comma Separated Values (CSV) format is basically, the plain text version of a spreadsheet. The format defines its cells by separating data via commas. 
 
