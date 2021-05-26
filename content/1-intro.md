@@ -1,6 +1,7 @@
 ---
 title: Introduction
-nav: Intro
+nav: Data Types
+topics: CSV; JSON; XML
 ---
 
 In this workshop, we intend to familiarized you with three different types of data formats, CSV, XML, and JSON. 

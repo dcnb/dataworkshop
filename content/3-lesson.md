@@ -1,10 +1,10 @@
 ---
-title: Create Lesson Content
-nav: Content
+title: Open Refine Video Tutorial
+nav: Video Overview
 topics: Markdown; Includes
 description: >
-    This section has example Bootstrap feature includes that can be used to add some interest to your lesson content. Directly below this is an example video embed!
-youtubeid: moJgWrD6dwg
+    This video (by our very own Evan Williamson) introduces OpenRefine and gives a broader overview of some of its uses
+youtubeid: wGVtycv3SS0
 ---
 
-## Coming Soon
+## Open Refine Video Intro

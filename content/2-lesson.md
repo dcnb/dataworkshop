@@ -1,7 +1,7 @@
 ---
 title: Open Refine Step Thru
-nav: Start
-topics: Template; Config; Lorem ipsum
+nav: Step Thru
+topics: OpenRefine; Split Columns; Clean Data
 ---
 
 1. Turn the KMZ file into a KML File
@@ -54,6 +54,17 @@ topics: Template; Config; Lorem ipsum
     - "by separator" will be selected and the "Separator" will be a comma. Edit that to be `">"` then click "Ok"
     - Rename column Link 1 to page
     - Rename column Link 2 to url
+
+
+{% capture text %}
+If you'd like to see all these steps in an Open Refine project, download the project file by right clicking this link --> [idaho-standing-fire-towers.openrefine.tar.gz](/idaho-standing-fire-towers.openrefine.tar.gz) and pressing 'Save As'
+
+Then, in OpenRefine, select "Import Project" at the OpenRefine start page and add the project file by selecting the "Browse ..." button and finding the downloaded file. 
+{% endcapture %}
+{% include card.html text=text header="Project File for Open Refine" %}
+
+
+
 
 
 
